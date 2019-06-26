@@ -30,7 +30,11 @@ __Intermediate__
 
 ## Course Set-up
 
-Download the appropriate Python 3.7 Anaconda Distribution for your operating system: https://www.anaconda.com/distribution/
+1. Download the appropriate Python 3.7 Anaconda Distribution for your operating system: https://www.anaconda.com/distribution/
+2. In a Terminal: `git clone https://github.com/hopelessoptimism/debugging-data-science.git`
+3. `cd debugging-data-science`
+4. `conda env create -f environment.yml`
+5. `conda activate debugging-data`
 
 ## Recommended Preparation
 
@@ -39,10 +43,11 @@ Download the appropriate Python 3.7 Anaconda Distribution for your operating sys
 
 ## Recommended Follow-up
 
-* [Data Science Fundamentals LiveLessons Part 2: Machine Learning and Statistical Analysis LiveLessons](https://www.oreilly.com/library/view/data-science-fundamentals/9780134778877/)
+* [Data Science Fundamentals LiveLessons Part 2: Machine Learning and Statistical Analysis](https://www.oreilly.com/library/view/data-science-fundamentals/9780134778877/)
 * https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 * http://course18.fast.ai/ml
 
 ## Data
 
+* `notebooks/data`
 * [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
