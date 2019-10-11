@@ -101,5 +101,3 @@ dependencies:
   - xz=5.2.4=h1de35cc_4
   - zeromq=4.3.1=h0a44026_3
   - zlib=1.2.11=h1de35cc_3
-prefix: /Users/jonathandinu/anaconda3/envs/debugging-data
-
