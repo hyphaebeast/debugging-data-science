@@ -2,7 +2,7 @@
 
 This repository contains the exercises and data for [Debugging Data Science Live Training](https://learning.oreilly.com/live-training/courses/debugging-data-science-part-1-evaluating-machine-learning-in-practice/0636920351016/). This training provides an invaluable, hands-on guide to applying machine learning in the wild. Through an end-to-end data science example, we will walk through the process of defining an appropriate problem, building and evaluating a model, and see how to take its performance to the next level through a variety of more advanced techniques. The focus will be on debugging machine learning problems that arise during the model training process and seeing how to overcome these issues to improve the effectiveness of the model.
 
-And/or please do not hesitate to reach out to me directly via email at jondinu@gmail.com or over twitter @jonathandinu
+And/or please do not hesitate to reach out to me directly via email at inquiries@jonathan.industries or over twitter @jonathandinu
 
 > If you find any errors in the code or materials, please open a Github [issue](https://github.com/hopelessoptimism/debugging-data-science/issues) in this repository
 
