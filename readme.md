@@ -18,7 +18,8 @@ And/or please do not hesitate to reach out to me directly via email at jondinu@g
 2. In a Terminal: `git clone https://github.com/hopelessoptimism/debugging-data-science.git`
 3. `cd debugging-data-science`
 4. `conda env create -f environment.yml`
-5. `conda activate debugging-data`
+5. `conda activate debugging-data-ll`
+6. `jupyter notebook` #=> a web browser tab should open 
 
 ## Recommended Preparation
 
